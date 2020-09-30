@@ -1,0 +1,10 @@
+random:
+  byte_length: 15
+echo:
+  bar: foo
+  turkos: test
+
+
+global:
+  byte_length: 12
+
